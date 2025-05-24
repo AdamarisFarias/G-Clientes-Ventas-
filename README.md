@@ -1,4 +1,3 @@
-El PROYECTO esta subido en la rama 'master' , debe seleccionar esa rama para que pueda ver todo el proyecto
 # G-Clientes/Ventas -- Sistema de Gestión de Clientes y Ventas(Grupo 1)--
 Descripción del Proyecto:
 El sistema permite manejar datos de personas (clientes y empleados), productos, facturas y detalles de venta. Incluye funcionalidades para crear objetos, manipular atributos, calcular totales de facturas y simular una estructura de un sistema de ventas.
@@ -17,4 +16,4 @@ Factura: Agrupa los detalles de venta y calcula el total.
 DetalleFactura: Representa una línea de factura con un producto, su cantidad y precio unitario.
 
 Captura de pantalla del resultado:
-![Captura Resultado](https://github.com/AdamarisFarias/G-Clientes-Ventas-/blob/main/captura_ejecucion.jpg?raw=true)
+![Captura Resultado](https://github.com/AdamarisFarias/G-Clientes-Ventas-/blob/main/captura_resultado.jpg?raw=true)
