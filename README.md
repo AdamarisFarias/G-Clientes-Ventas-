@@ -1,4 +1,4 @@
-#Sistema de Gestión de Clientes y Ventas (Grupo 1)
+#--Sistema de Gestión de Clientes y Ventas (Grupo 1)--
 
 
 Descripción del Proyecto:
